@@ -1503,7 +1503,7 @@ border: 0;
 .swiper__events__slide {
   background: #FFFFFF;
   border: 1px solid #CACACA;
-  height: 700px;
+  min-height: 700px;
   position: relative;
 }
 
