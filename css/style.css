@@ -2,10 +2,6 @@ html {
   box-sizing: border-box;
 }
 
-body {
-  margin: 0 auto;
-}
-
 *,
 *::before,
 *::after {
@@ -52,7 +48,7 @@ body {
   margin: 0 auto;
   max-width: 1920px;
   font-family: 'Open Sans', sans-serif;
-  background: #E5E5E5;
+  background: #FFFFFF;
   height: 100%;
 }
 
